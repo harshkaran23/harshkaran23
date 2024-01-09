@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan2303&label=Views&color=blue&style=plastic" alt="harshvardhan2303" /> </p>
 
 - 🔭 I’m currently working on [AI Voice Assistant](https://github.com/)
-- 🌱 I’m currently learning Cyber Security 
+- 🌱 I’m currently learning Machine Learning, Internet of Things
 - 👨‍💻 All of my projects are available at [Portfolio](https://harshvardhan2303.github.io/portfolio/)
 - 💬 Ask me about Core Java, Html, CSS
 - 📫 How to reach me: drop a hi! message on my [LinkedIn](https://linkedin.com/in/harsh-vardhan-391478295)
