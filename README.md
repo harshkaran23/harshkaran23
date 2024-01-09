@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [AI Voice Assistant](https://github.com/)
 - 🌱 I’m currently learning Django, React
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://harshvardhan2303.github.io/portfolio/)
 - 💬 Ask me about Core Java, Html, CSS
 - 📫 How to reach me: drop a hi! message on my [LinkedIn](https://linkedin.com/in/harsh-vardhan-391478295)
 - 📄 Know about my experiences [Resume](https://github.com/)
