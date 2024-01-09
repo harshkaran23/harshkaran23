@@ -13,7 +13,7 @@
 - 📫 How to reach me: drop a hi! message on my [LinkedIn](https://linkedin.com/in/harsh-vardhan-391478295)
 - 📄 Know about my experiences [Resume](https://github.com/)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/harshvardhan2303/harshvardhan2303/blob/main/code.gif" width="500" height="320" />
 
 ### Connect with me:
 
