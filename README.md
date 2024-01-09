@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [Portfolio](https://harshvardhan2303.github.io/portfolio/)
 - 💬 Ask me about Core Java, Html, CSS
 - 📫 How to reach me: drop a hi! message on my [LinkedIn](https://linkedin.com/in/harsh-vardhan-391478295)
-- 📄 Know about my experiences [Resume](https://github.com/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SWWRYK83qWRcjyPlQoZfZYu2fCWTd7lv/view)
 
 <img align="right" alt="GIF" src="https://github.com/harshvardhan2303/harshvardhan2303/blob/main/code.gif" width="500" height="320" />
 
