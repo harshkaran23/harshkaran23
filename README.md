@@ -7,17 +7,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan2303&label=Views&color=blue&style=plastic" alt="harshvardhan2303" /> </p>
 
 - 🔭 I’m currently working on [AI Voice Assistant](https://github.com/)
-- 🌱 I’m currently learning Machine Learning, Internet of Things
+- 🌱 I’m currently learning Ethical Hacking, Internet of Things
 - 👨‍💻 All of my projects are available at [Portfolio](https://harshvardhan2303.github.io/portfolio/)
 - 💬 Ask me about Core Java, Html, CSS
-- 📫 How to reach me: drop a hi! message on my [LinkedIn](https://linkedin.com/in/harsh-vardhan-391478295)
+- 📫 How to reach me: drop a hi! message on my [LinkedIn](https://linkedin.com/in/harshkaran23)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SWWRYK83qWRcjyPlQoZfZYu2fCWTd7lv/view)
 
 <img align="right" alt="GIF" src="https://github.com/harshvardhan2303/harshvardhan2303/blob/main/code.gif" width="500" height="320" />
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/harsh-vardhan-391478295">
+<a href="https://linkedin.com/in/harshkaran23">
   <img align="left" alt="harsh Linkdein" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 
