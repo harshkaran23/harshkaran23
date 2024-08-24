@@ -4,7 +4,7 @@
 
 ### Glad to see you here :heart:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan2303&label=Views&color=blue&style=plastic" alt="harshvardhan2303" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan2303&label=Views&color=blue&style=plastic" alt="harshkaran23" /> </p>
 
 - 🔭 I’m currently working on [Face Auth Pro](https://github.com/)
 - 🌱 I’m currently learning Ethical Hacking, Cybersecurity.
@@ -45,8 +45,8 @@
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></p>
 
   <div align="center" title="Go to Source">
-    <a href="https://github.com/harshvardhan2303/github-readme-stats">
+    <a href="https://github.com/harshkaran23/github-readme-stats">
       <img
-        width="325" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhan2303&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+        width="325" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkaran23&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
     </a>
   </div>
