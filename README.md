@@ -4,7 +4,7 @@
 
 ### Glad to see you here :heart:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan2303&label=Views&color=blue&style=plastic" alt="harshkaran23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkaran23&label=Views&color=blue&style=plastic" alt="harshkaran23" /> </p>
 
 - 🔭 I’m currently working on [Face Auth Pro](https://github.com/)
 - 🌱 I’m currently learning Ethical Hacking, Cybersecurity.
